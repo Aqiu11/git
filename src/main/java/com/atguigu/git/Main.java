@@ -16,5 +16,6 @@ public class Main {
         System.out.println("Hello git4");
         System.out.println("Hello mainTest");
         System.out.println("Hello hotfixTEST");
+        System.out.println("push test");
     }
 }
